@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Roman Numerals Decoder/1.0.0": {
+        "runtime": {
+          "Roman Numerals Decoder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Roman Numerals Decoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

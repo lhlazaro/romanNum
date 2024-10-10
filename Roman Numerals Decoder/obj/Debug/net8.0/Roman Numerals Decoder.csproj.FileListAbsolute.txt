@@ -1,0 +1,15 @@
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\bin\Debug\net8.0\Roman Numerals Decoder.exe
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\bin\Debug\net8.0\Roman Numerals Decoder.deps.json
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\bin\Debug\net8.0\Roman Numerals Decoder.runtimeconfig.json
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\bin\Debug\net8.0\Roman Numerals Decoder.dll
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\bin\Debug\net8.0\Roman Numerals Decoder.pdb
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\net8.0\Roman Numerals Decoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\net8.0\Roman Numerals Decoder.AssemblyInfoInputs.cache
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\net8.0\Roman Numerals Decoder.AssemblyInfo.cs
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\net8.0\Roman Numerals Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\net8.0\Roman Numerals Decoder.sourcelink.json
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\net8.0\Roman Numerals Decoder.dll
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\net8.0\refint\Roman Numerals Decoder.dll
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\net8.0\Roman Numerals Decoder.pdb
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\net8.0\Roman Numerals Decoder.genruntimeconfig.cache
+C:\Users\Luis Hernandez\source\repos\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\net8.0\ref\Roman Numerals Decoder.dll
